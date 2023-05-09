@@ -1,0 +1,10 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+#titulo1 {
+    font-size: 30px;
+}
+.texto-rosa {
+    color: rgb(235, 18, 170);
+}
